@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0430765d-63f9-413b-bc1a-bfcb82e1e02a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Funny.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Funny.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TestOperator/Funny.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -156,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/workflow/Dag.go" />
         <option value="$PROJECT_DIR$/src/lralgo/main.go" />
         <option value="$PROJECT_DIR$/src/TestOperator/Funny.go" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -341,8 +352,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -350,7 +362,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2735043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32763532" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32763532" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4359375" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
@@ -458,11 +470,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Go/src/image/internal/imageutil/impl.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2679" />
-      </provider>
-    </entry>
     <entry file="file://C:/Go/src/hash/test_cases.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -812,6 +819,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
