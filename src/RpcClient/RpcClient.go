@@ -12,8 +12,9 @@ func main()  {
 	}
 	var reply  = map[string]interface{}{}
 	var args = map[string]interface{}{}
-	args["line"]=[]int{4,5,6}
+	args["line"]=[]int{4,5,16}
 	err=rpcClient.Call("Rpc.Handle1",args,&reply)
+
 	if err!=nil{
 		log.Fatalln(err.Error())
 	}
