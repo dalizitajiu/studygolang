@@ -22,7 +22,7 @@ func (this *Rpc)Handle1(args *map[string]interface{},reply *map[string]interface
 	return nil
 }
 func main(){
-	log.Println("JsonRpcServer")
+	log.Println("JsonRpcServer222222222")
 	rpchandle:=new(Rpc)
 	rpc.Register(rpchandle)
 	addr, _ := net.ResolveTCPAddr("tcp", ":9009")
